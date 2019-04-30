@@ -1,0 +1,14 @@
+.navbar {
+  display:table;
+  width: 100vw;
+  background-color: rgb(212,182,108);
+  height: 5vh;
+  text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+.navbar-brand {
+  display:table-cell;
+  vertical-align: middle;
+  font-size: 20px;
+}
