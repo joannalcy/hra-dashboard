@@ -2,7 +2,7 @@
   "name": "hra-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joannalcy.github.io/hra-app",
+  "homepage": "https://joannalcy.github.io/hra-dashboard",
   "dependencies": {
     "@turf/turf": "^5.1.6",
     "axios": "^0.18.0",
