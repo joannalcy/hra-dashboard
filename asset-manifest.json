@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hra-app/static/css/main.0ef26a01.chunk.css",
-    "main.js": "/hra-app/static/js/main.13cc45df.chunk.js",
-    "main.js.map": "/hra-app/static/js/main.13cc45df.chunk.js.map",
-    "runtime~main.js": "/hra-app/static/js/runtime~main.d1eea0a9.js",
-    "runtime~main.js.map": "/hra-app/static/js/runtime~main.d1eea0a9.js.map",
-    "static/css/2.1ea32e28.chunk.css": "/hra-app/static/css/2.1ea32e28.chunk.css",
-    "static/js/2.66616168.chunk.js": "/hra-app/static/js/2.66616168.chunk.js",
-    "static/js/2.66616168.chunk.js.map": "/hra-app/static/js/2.66616168.chunk.js.map",
-    "index.html": "/hra-app/index.html",
-    "precache-manifest.c06c29628e122c8fa6ceef29c48563f9.js": "/hra-app/precache-manifest.c06c29628e122c8fa6ceef29c48563f9.js",
-    "service-worker.js": "/hra-app/service-worker.js",
-    "static/css/2.1ea32e28.chunk.css.map": "/hra-app/static/css/2.1ea32e28.chunk.css.map",
-    "static/css/main.0ef26a01.chunk.css.map": "/hra-app/static/css/main.0ef26a01.chunk.css.map",
-    "static/media/font-awesome.min.css": "/hra-app/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/hra-dashboard/static/css/main.0ef26a01.chunk.css",
+    "main.js": "/hra-dashboard/static/js/main.b5f49277.chunk.js",
+    "main.js.map": "/hra-dashboard/static/js/main.b5f49277.chunk.js.map",
+    "runtime~main.js": "/hra-dashboard/static/js/runtime~main.482017ae.js",
+    "runtime~main.js.map": "/hra-dashboard/static/js/runtime~main.482017ae.js.map",
+    "static/css/2.f80844d3.chunk.css": "/hra-dashboard/static/css/2.f80844d3.chunk.css",
+    "static/js/2.66616168.chunk.js": "/hra-dashboard/static/js/2.66616168.chunk.js",
+    "static/js/2.66616168.chunk.js.map": "/hra-dashboard/static/js/2.66616168.chunk.js.map",
+    "index.html": "/hra-dashboard/index.html",
+    "precache-manifest.a6596bade795749dc171fb3931dfd254.js": "/hra-dashboard/precache-manifest.a6596bade795749dc171fb3931dfd254.js",
+    "service-worker.js": "/hra-dashboard/service-worker.js",
+    "static/css/2.f80844d3.chunk.css.map": "/hra-dashboard/static/css/2.f80844d3.chunk.css.map",
+    "static/css/main.0ef26a01.chunk.css.map": "/hra-dashboard/static/css/main.0ef26a01.chunk.css.map",
+    "static/media/font-awesome.min.css": "/hra-dashboard/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
