@@ -5,6 +5,13 @@
   background-color: #aad3df;
 }
 
+@media only screen and (max-width: 600px) {
+  #mapdiv {
+    height: 90vh;
+    width: 100%;
+  }
+}
+
 .coords {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   font-size: 13px;

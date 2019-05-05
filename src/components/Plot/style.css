@@ -6,6 +6,12 @@
   text-align: center;
 }
 
+@media only screen and (max-width: 600px) {
+  .plot-container {
+    width: 100%;
+  }
+}
+
 .label {
   fill: black;
   font-weight: bold;
