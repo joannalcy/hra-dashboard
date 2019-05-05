@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9ac3d93c9fb54a9a955811bf7cd1baa",
+    "revision": "b492ba3833e51dbe63ce337a3b0a51cf",
     "url": "/hra-dashboard/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hra-dashboard/static/css/2.f80844d3.chunk.css"
   },
   {
-    "revision": "7aed615caa9895353ce4",
-    "url": "/hra-dashboard/static/css/main.0ef26a01.chunk.css"
+    "revision": "bdcc2407990f80919a57",
+    "url": "/hra-dashboard/static/css/main.e083abf3.chunk.css"
   },
   {
     "revision": "a9855bc3f22286ee9937",
     "url": "/hra-dashboard/static/js/2.2c63ca1f.chunk.js"
   },
   {
-    "revision": "7aed615caa9895353ce4",
-    "url": "/hra-dashboard/static/js/main.2f0ed663.chunk.js"
+    "revision": "bdcc2407990f80919a57",
+    "url": "/hra-dashboard/static/js/main.3dd4ef88.chunk.js"
   },
   {
     "revision": "8329448c534e357c7572",
