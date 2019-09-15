@@ -1,4 +1,4 @@
-[HRA dashboard](https://joannalcy.github.io/hra-dashboard/) for visualizing and communicating model outputs of [Habitat Risk Assessment model](http://data.naturalcapitalproject.org/nightly-build/invest-users-guide/html/habitat_risk_assessment.html).
+[HRA dashboard](https://joannalcy.github.io/hra-dashboard/) for visualizing and communicating model outputs of [Habitat Risk Assessment model](http://releases.naturalcapitalproject.org/invest-userguide/latest/habitat_risk_assessment.html).
 
 ## Available Scripts
 
