@@ -5,7 +5,7 @@
   "homepage": "https://joannalcy.github.io/hra-dashboard",
   "dependencies": {
     "@turf/turf": "^5.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "chroma-js": "^2.0.2",
     "d3": "^5.8.2",
     "debug": "^4.1.1",
