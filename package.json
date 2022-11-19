@@ -26,7 +26,7 @@
     "react-leaflet-choropleth": "https://github.com/joannalcy/react-leaflet-choropleth/tarball/master",
     "react-leaflet-control": "^2.0.0",
     "react-redux": "^6.0.0",
-    "react-scripts": "^3.0.0",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.1"
   },
   "scripts": {
